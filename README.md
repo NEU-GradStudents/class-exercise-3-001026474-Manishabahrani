@@ -1,6 +1,6 @@
 # zivallo
 
-A new Flutter project.
+A new Flutter project. using Layout feature
 
 ## Getting Started
 
